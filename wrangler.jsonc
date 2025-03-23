@@ -8,6 +8,7 @@
 	"main": "src/index.ts",
 	"compatibility_date": "2025-03-21",
 	"compatibility_flags": ["nodejs_compat"],
+	// If you enable assets, you may not be able to output logs.
 	"assets": {
 		"binding": "ASSETS",
 		"directory": "./public"
